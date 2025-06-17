@@ -52,6 +52,9 @@ make
 
 ## Team
 [Jawed Lahrouri](https://github.com/jawedlahrouri)
+
 [Lucas Lhomme](https://github.com/LucasLhomme)
+
 [Grégoire Fageot](https://github.com/graigware)
+
 [Theophile Riffe](https://github.com/inkurey-22)
