@@ -51,7 +51,7 @@ make
 ```
 
 ## Team
-[https://github.com/jawedlahrouri](Jawed Lahrouri)
-[https://github.com/LucasLhomme](Lucas Lhomme)
-[https://github.com/graigware](Grégoire Fageot)
-[https://github.com/inkurey-22](Theophile Riffe)
+[Jawed Lahrouri](https://github.com/jawedlahrouri)
+[Lucas Lhomme](https://github.com/LucasLhomme)
+[Grégoire Fageot](https://github.com/graigware)
+[Theophile Riffe](https://github.com/inkurey-22)
