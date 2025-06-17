@@ -1,0 +1,17 @@
+*.o
+info_file
+boggle
+*~
+~*
+*.a
+a.out
+test.c
+*.sh
+.vscode
+*.txt
+test/*
+42sh
+compile_commands.json
+*.cache
+*idea
+unit_tests
