@@ -48,6 +48,7 @@ Developed as part of the **B-PSU-200** module at **Epitech**, this project is co
 
 ```bash
 make
+```
 
 ## Team
 [https://github.com/jawedlahrouri](Jawed Lahrouri)
